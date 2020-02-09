@@ -1,12 +1,9 @@
-# gitbook 安装
-------------------------
-
-## 安装`git`
+# 1. 安装`git`
 ```shell
 sudo apt install git
 ```
 
-## 安装 nodejs
+# 2. 安装 nodejs
 
 ```shell
 # nodejs 官网
@@ -25,7 +22,7 @@ node -V
 npm -V
 ```
 
-## 安装 gitbook
+# 3. 安装 gitbook
 
 ```shell
 # 安装 gitbook
@@ -35,7 +32,7 @@ npm install -g gitbook-cli
 gitbook -V
 ```
 
-## gitbook 使用
+# 4. gitbook 使用
 
 ```shell
 gitbook -h
@@ -47,6 +44,9 @@ gitbook init
 gitbook serve
 ```
 
-## Todo
+# 5. Todo
 
-- 对生成 pdf 电子书的支持
+- [ ] 对生成 pdf 电子书的支持
+
+
+

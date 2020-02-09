@@ -1,13 +1,10 @@
-# samba 安装
--------------------
-
-## 安装 samba
+# 1. 安装 samba
 
 ```shell
 sudo apt install samba
 ```
 
-## 修改配置文件，增加共享路径
+# 2. 修改配置文件，增加共享路径
 
 ```shell
 # 配置文件路径
@@ -24,19 +21,22 @@ browseable = yes
 writable = yes
 ```
 
-## 重启 samba 服务
+# 3. 重启 samba 服务
 
 ```shell
 service smbd restart
 ```
 
-## 增加访问的用户权限
+# 4. 增加访问的用户权限
 
 ```shell
 # 增加访问的可以用户共享路径的用户，并设置密码
 sudo smbpasswd -a jam
 ```
 
-## Todo
+# 5. Todo
 
-- 把该过程写成脚本，下次安装自动化
+- [ ] 把该过程写成脚本，下次安装自动化
+
+
+
