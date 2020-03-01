@@ -71,3 +71,8 @@ public class SpringbootMainApplication {
 通过浏览器来测试程序。
 
 ![image-20200224075724197](img/image-20200224075724197.png)
+
+# 4. 完整代码
+
+- **github: ** [https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello](https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello)
+- **gitee: ** [https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello](https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello)

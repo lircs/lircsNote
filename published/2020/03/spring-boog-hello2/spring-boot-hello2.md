@@ -84,3 +84,8 @@ public class HelloController {
 接下来，我们测试一下，如下，我们请求以后可以返回我们在控制器中定义的数据，则表示我们程序 ok，可以上线了。哈哈。
 
 ![image-20200301085506921](img/image-20200301085506921.png)
+
+# 4. 完整代码
+
+- **github: ** [https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2](https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2)
+- **gitee: ** https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2](https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2)
