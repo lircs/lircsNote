@@ -74,5 +74,5 @@ public class SpringbootMainApplication {
 
 # 4. 完整代码
 
-- **github: ** [https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello](https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello)
-- **gitee: ** [https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello](https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello)
+- **github:** [https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello](https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello)
+- **gitee:** [https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello](https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello)

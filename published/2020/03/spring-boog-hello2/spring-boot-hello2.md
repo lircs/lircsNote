@@ -87,5 +87,5 @@ public class HelloController {
 
 # 4. 完整代码
 
-- **github: ** [https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2](https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2)
-- **gitee: ** https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2](https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2)
+- **github:** [https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2](https://github.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2)
+- **gitee:** [https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2](https://gitee.com/lircs/lircsRepository/tree/master/2020/03/spring-boot-hello2)
